@@ -1,0 +1,20 @@
+{
+  "name": "notesS",
+  "version": "1.0.0",
+  "description": "JavaScript example starter project",
+  "main": "notes.html",
+  "scripts": {
+    "start": "parcel notes.html --open",
+    "build": "parcel build notes.html"
+  },
+  "dependencies": {
+    "java": "0.12.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
